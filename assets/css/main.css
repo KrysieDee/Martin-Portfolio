@@ -72,6 +72,7 @@ input, select, textarea {
 	appearance: none;
 }
 
+
 /* Basic */
 
 	@-ms-viewport {
@@ -4288,9 +4289,9 @@ input, select, textarea {
 			margin: 0 auto;
 			padding-bottom: 3rem;
 			position: relative;
-			text-align-last: justify;
-			text-align: justify;
 			opacity: 0.95;
+			word-spacing: 30px;
+
 		}
 
 		#banner .inner {
@@ -4304,6 +4305,7 @@ input, select, textarea {
 			position: relative;
 			width: calc(100% - 4rem);
 			z-index: 3;
+            text-align: center; 
 		}
 
 		#banner .content {
