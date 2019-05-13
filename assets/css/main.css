@@ -4646,3 +4646,17 @@ input, select, textarea {
 		color: rgba(40, 40, 40, 0.5);
 		text-align: center;
 	}
+
+	h1, h2, h3, h4, h5, h6 {
+margin-bottom: .5rem;
+margin-top: 1rem;
+	}
+
+	.grid-container {
+	
+	}
+
+	.video-item {
+		overflow: hidden;
+	  }
+	  
