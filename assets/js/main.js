@@ -65,7 +65,9 @@
 							//'images/slides/slide03.jpg': 'center',
 							//'images/slides/slide04.jpg': 'center',
 							'images/slides/0.jpg': '0% 20%',
-							'images/slides/0-1.jpg': 'center'
+							'images/slides/0-1.jpg': 'center',
+							'images/slides/0-2.jpg': '0% 20%'
+
 						},
 
 					// Delay.
